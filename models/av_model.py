@@ -8,8 +8,10 @@ import sentencepiece as spm
 
 import torch
 import torchaudio
-from models.conformer_rnnt import conformer_rnnt
-from models.emformer_rnnt import emformer_rnnt
+from emformer import emformer_rnnt
+from conformer import conformer_rnnt
+from fusion_module import fusion_module
+from visual_frontend import resnet_model
 from models.fusion import fusion_module
 from models.resnet import video_resnet
 from models.resnet1d import audio_resnet
