@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef203093-1305-4cc7-a774-484b49012582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Audio Visual.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/streamer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face_detection/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/audio_frontend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/av_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/conformer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/emformer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/fusion_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/joint_network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/predictor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/visual_frontend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JohnnysGithubAccount"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JohnnysGithubAccount/Audio-Visual-Speech-Recognition.git",
+    "accountId": "e762a668-1ab1-4946-a276-bab8fb827f8b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
