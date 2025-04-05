@@ -12,9 +12,7 @@ from emformer import emformer_rnnt
 from conformer import conformer_rnnt
 from fusion_module import fusion_module
 from visual_frontend import resnet_model
-from models.fusion import fusion_module
-from models.resnet import video_resnet
-from models.resnet1d import audio_resnet
+from audio_frontend import audio_resnet
 from pytorch_lightning import LightningModule
 from schedulers import WarmupCosineScheduler
 from torchaudio.models import Hypothesis, RNNTBeamSearch
